@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
-// test 2 test 3
+// test 2 test 3 verzija git commit
 
 app.get('/', function (req, res) {
   res.send('Hello World!');
