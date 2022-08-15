@@ -2,17 +2,10 @@ var express = require('express');
 var app = express();
 // test 2 test 3 verzija git commit SVE UKUPNO
 // opet i opet i nista test dmdkdkkd test
-// nedjelja opet i opet i opet
-// jos jedna linija i start
+// nedjelja opet i opet
 
 app.get('/', function (req, res) {
-
-
-
-  res.send('Hello Worl 70 !!!!');
-
-
-
+  res.send('Hello World!');
 });
 //NOVI POKUSAJ
 var server = app.listen(3000, function () {
