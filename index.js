@@ -3,6 +3,7 @@ var app = express();
 // test 2 test 3 verzija git commit SVE UKUPNO
 // opet i opet i nista test dmdkdkkd test
 // nedjelja opet i opet i opet
+// jos jedna linija
 
 app.get('/', function (req, res) {
 
