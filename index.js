@@ -5,7 +5,7 @@ var app = express();
 // nedjelja opet i opet i opet
 
 app.get('/', function (req, res) {
-  res.send('Hello World!!!!');
+  res.send('Hello World2!!!!');
 });
 //NOVI POKUSAJ
 var server = app.listen(3000, function () {
